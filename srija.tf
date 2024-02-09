@@ -8,6 +8,3 @@ resource "aws_instance" "myec2" {
    Name= "srija-server"
    }
 }
-  tags = {
-    Name = "Srija-DevOps-batch-server"
-}
